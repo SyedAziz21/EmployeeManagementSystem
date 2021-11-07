@@ -1,0 +1,26 @@
+﻿EmployeeId,FirstName,LastName,DateOfBirth,PlaceOfBirth,Nationality,Gender,MaritalStatus,BranchID,EmailId,MobileNumber,Address,Zipcode,Salary
+10001,Rajkumar,Rao,02-07-1990,Mumbai,Indian,Male,Married,IND112,RaoRajkumar@gmail.com,9593241556,,400008,134000
+10002,Rakul Preeth,Singh,12-11-1996,Chandigarh,Indian,Female,Single,IND112,SinghRakul Preeth@gmail.com,971124563,,160002,110000
+10003,Tom,Hanks,03-02-1990,Toronto,Canadian,Male,Married,CAN110,HanksTom@gmail.com,126058617,,57268,134000
+10004,Srimayee,Bandarupalli,04-03-1990,Kurnool,Indian,Female,Married,IND112,BandarupalliSrimayee@gmail.com,165458629,,518001,134000
+10005,Abdur,Rahman,13-12-1996,Hyderabad,Indian,Male,Single,IND112,RahmanAbdur@gmail.com,6365948102,,500024,110000
+10006,Ayush,Gupta,14-08-1996,Delhi,Indian,Male,Single,IND112,GuptaAyush@gmail.com,6514648201,,110064,110000
+10007,Nikhil,Kumar,21-06-1995,Odisha,Indian,Male,,IND112,KumarNikhil@gmail.com,8881559659,,759026,114000
+10008,Rachel,Scott,10-01-1989,London,British,Female,Divorced,UK005,ScottRachel@gmail.com,165458611,,43140,140000
+10009,Dana,,15-01-1996,Paris,French,Female,Single,FR565,Dana@gmail.com,165458626,,75440,114000
+10010,Simon,Doyle,11-10-1989,Paris,French,Male,Divorced,FR565,DoyleSimon@gmail.com,126458614,,75460,140000
+10011,Emma,Clarke,16-05-1996,vancouver,Canadian,Female,Single,CAN110,ClarkeEmma@gmail.com,165458623,,V5Z,110000
+10012,Frank,Gallo,05-02-1990,Atlanta,American,Male,Married,AMR001,GalloFrank@gmail.com,971124963,,30304,134000
+10013,Sophia,Mathews,06-01-1990,England,British,Female,Married,UK005,MathewsSophia@gmail.com,165458614,,72046,134000
+10014,Alberto,Bryant,17-11-1996,Toronto,Canadian,Male,Single,CAN110,BryantAlberto@gmail.com,126258657,,66777,110000
+10015,Joe,Peterson,20-01-1991,Vienna,Austrian,Male,Single,AUS001,PetersonJoe@gmail.com,971125563,,22200,128000
+10016,Paul,Walker,22-05-1992,Manchester,British,Male,Single,UK005,WalkerPaul@gmail.com,125658619,,M1,125000
+10017,Aidan,,07-06-1990,Bristol,British,Male,Married,UK005,Aidan@gmail.com,125458617,,6010,134000
+10018,James,Rick,24-02-1988,Montreal,Canadian,Male,,CAN110,RickJames@gmail.com,125858627,,H1A0A5,140000
+10019,Harry,Potter,08-03-1989,Boston,American,Male,Married,AMR001,PotterHarry@gmail.com,971124763,,2101,140000
+10020,Peter,Benett,18-03-1993,Chicago,American,Male,Single,AMR001,BenettPeter@gmail.com,971125163,,60009,122000
+10021,Donna,,24-11-1989,Chicago,American,Female,,AMR001,Donna@gmail.com,971124583,,60007,134000
+10022,Hermione,Grangel,19-07-1993,Vienna,Austrian,Female,Single,AUS001,GrangelHermione@gmail.com,165428966,,22200,114000
+10023,Olivia,Bryant,23-01-1993,Cardiff,British,Female,Single,UK005,BryantOlivia@gmail.com,165458617,,CF10,122000
+10024,Jessica,James,25-11-1993,Bristol,British,Female,Single,UK005,JamesJessica@gmail.com,165458620,,6011,114000
+10025,Shane,Mathews,09-02-1989,Graz,Austrian,Male,Married,AUS001,MathewsShane@gmail.com,971125363,,8010,140000

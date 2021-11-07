@@ -1,0 +1,238 @@
+{
+    "Sheet1": [
+        {
+            "EmployeeId": "10011",
+            "BranchId": "CAN110",
+            "ManagerId": "10025",
+            "HRId": "10016",
+            "AccountNumber": "154892245",
+            "IFSCcode": "CNB78TNT",
+            "Designation": "Assistant HR"
+        },
+        {
+            "EmployeeId": "10003",
+            "BranchId": "CAN110",
+            "ManagerId": "10010",
+            "HRId": "10025",
+            "AccountNumber": "154891245",
+            "IFSCcode": "CNB78TNT",
+            "IdentificationNumber": "IDF4735",
+            "Designation": "Assistant VP"
+        },
+        {
+            "EmployeeId": "10013",
+            "BranchId": "UK005",
+            "ManagerId": "10019",
+            "HRId": "10025",
+            "AccountNumber": "109846531",
+            "IFSCcode": "BNKENG0CRD",
+            "IdentificationNumber": "IDF2997",
+            "Designation": "Assistant VP"
+        },
+        {
+            "EmployeeId": "10008",
+            "BranchId": "UK005",
+            "ManagerId": "10018",
+            "HRId": "10025",
+            "AccountNumber": "109845671",
+            "IFSCcode": "BNKENG0CRD",
+            "Designation": "COO"
+        },
+        {
+            "EmployeeId": "10007",
+            "BranchId": "IND112",
+            "ManagerId": "10001",
+            "HRId": "10016",
+            "AccountNumber": "2254989567",
+            "IFSCcode": "SBIN2BLR",
+            "Designation": "DBA"
+        },
+        {
+            "EmployeeId": "10014",
+            "BranchId": "CAN110",
+            "ManagerId": "10017",
+            "HRId": "10011",
+            "AccountNumber": "154891945",
+            "IFSCcode": "CNB78TNT",
+            "Designation": "Developer"
+        },
+        {
+            "EmployeeId": "10018",
+            "BranchId": "CAN110",
+            "ManagerId": "NA",
+            "HRId": "10025",
+            "AccountNumber": "154890045",
+            "IFSCcode": "CNB78TNT",
+            "Designation": "Director"
+        },
+        {
+            "EmployeeId": "10016",
+            "BranchId": "UK005",
+            "ManagerId": "10025",
+            "HRId": "10025",
+            "AccountNumber": "109850599",
+            "IFSCcode": "BNKENG0CRD",
+            "Designation": "HR "
+        },
+        {
+            "EmployeeId": "10025",
+            "BranchId": "AUS001",
+            "ManagerId": "10018",
+            "HRId": "NA",
+            "AccountNumber": "19325844",
+            "IFSCcode": "BNKAUSVNA",
+            "IdentificationNumber": "IDF1456",
+            "Designation": "HR Head"
+        },
+        {
+            "EmployeeId": "10020",
+            "BranchId": "AMR001",
+            "ManagerId": "10001",
+            "HRId": "10016",
+            "AccountNumber": "565123581",
+            "IFSCcode": "BOA0NY",
+            "Designation": "IT Admin"
+        },
+        {
+            "EmployeeId": "10002",
+            "BranchId": "IND112",
+            "ManagerId": "10001",
+            "HRId": "10011",
+            "AccountNumber": "2254999672",
+            "IFSCcode": "SBIN2BLR",
+            "Designation": "IT Admin"
+        },
+        {
+            "EmployeeId": "10006",
+            "BranchId": "IND112",
+            "ManagerId": "10001",
+            "HRId": "10011",
+            "AccountNumber": "2254995532",
+            "IFSCcode": "SBIN2BLR",
+            "Designation": "Junior Analyst"
+        },
+        {
+            "EmployeeId": "10009",
+            "BranchId": "FR565",
+            "ManagerId": "10012",
+            "HRId": "10011",
+            "AccountNumber": "80547975",
+            "IFSCcode": "FR0PRS",
+            "Designation": "Junior Developer"
+        },
+        {
+            "EmployeeId": "10005",
+            "BranchId": "IND112",
+            "ManagerId": "10017",
+            "HRId": "10011",
+            "AccountNumber": "2254999673",
+            "IFSCcode": "SBIN2BLR",
+            "Designation": "Junior Developer"
+        },
+        {
+            "EmployeeId": "10001",
+            "BranchId": "IND112",
+            "ManagerId": "10013",
+            "HRId": "10025",
+            "AccountNumber": "2254983527",
+            "IFSCcode": "SBIN2BLR",
+            "Designation": "Operations Manager"
+        },
+        {
+            "EmployeeId": "10022",
+            "BranchId": "AUS001",
+            "ManagerId": "10012",
+            "HRId": "10016",
+            "AccountNumber": "19325964",
+            "IFSCcode": "BNKAUSVNA",
+            "Designation": "Senior Analyst"
+        },
+        {
+            "EmployeeId": "10024",
+            "BranchId": "UK005",
+            "ManagerId": "10012",
+            "HRId": "10016",
+            "AccountNumber": "109854934",
+            "IFSCcode": "BNKENG0CRD",
+            "Designation": "Senior Analyst"
+        },
+        {
+            "EmployeeId": "10015",
+            "BranchId": "AUS001",
+            "ManagerId": "10017",
+            "HRId": "10016",
+            "AccountNumber": "19325894",
+            "IFSCcode": "BNKAUSVNA",
+            "Designation": "Senior Developer"
+        },
+        {
+            "EmployeeId": "10023",
+            "BranchId": "UK005",
+            "ManagerId": "10017",
+            "HRId": "10016",
+            "AccountNumber": "109854522",
+            "IFSCcode": "BNKENG0CRD",
+            "Designation": "Senior Developer"
+        },
+        {
+            "EmployeeId": "10012",
+            "BranchId": "AMR001",
+            "ManagerId": "10021",
+            "HRId": "10025",
+            "AccountNumber": "565118581",
+            "IFSCcode": "BOA0NY",
+            "IdentificationNumber": "IDF2090",
+            "Designation": "Senior Manager"
+        },
+        {
+            "EmployeeId": "10004",
+            "BranchId": "IND112",
+            "ManagerId": "10021",
+            "HRId": "10025",
+            "AccountNumber": "2254983567",
+            "IFSCcode": "SBIN2BLR",
+            "IdentificationNumber": "IDF6321",
+            "Designation": "Senior Manager"
+        },
+        {
+            "EmployeeId": "10017",
+            "BranchId": "UK005",
+            "ManagerId": "10019",
+            "HRId": "10025",
+            "AccountNumber": "109850571",
+            "IFSCcode": "BNKENG0CRD",
+            "IdentificationNumber": "IDF2769",
+            "Designation": "Senior Manager"
+        },
+        {
+            "EmployeeId": "10019",
+            "BranchId": "AMR001",
+            "ManagerId": "10008",
+            "HRId": "10025",
+            "AccountNumber": "565121581",
+            "IFSCcode": "BOA0NY",
+            "IdentificationNumber": "IDF6098",
+            "Designation": "Vice President"
+        },
+        {
+            "EmployeeId": "10021",
+            "BranchId": "AMR001",
+            "ManagerId": "10008",
+            "HRId": "10025",
+            "AccountNumber": "565118581",
+            "IFSCcode": "BOA0NY",
+            "IdentificationNumber": "IDF7525",
+            "Designation": "Vice President"
+        },
+        {
+            "EmployeeId": "10010",
+            "BranchId": "FR565",
+            "ManagerId": "10008",
+            "HRId": "10025",
+            "AccountNumber": "80546975",
+            "IFSCcode": "FR0PRS",
+            "IdentificationNumber": "IDF5439",
+            "Designation": "Vice President"
+        }
+    ]
+}

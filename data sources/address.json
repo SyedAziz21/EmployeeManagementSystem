@@ -1,0 +1,148 @@
+{
+    "Address": [
+        {
+            "Country": "United States of America",
+            "State": "Illinois",
+            "City": "Chicago",
+            "Zipcode": "60007"
+        },
+        {
+            "Country": "United States of America",
+            "State": "Massachusetts",
+            "City": "Boston",
+            "Zipcode": "2101"
+        },
+        {
+            "Country": "United States of America",
+            "State": "Georgia",
+            "City": "Atlanta",
+            "Zipcode": "30304"
+        },
+        {
+            "Country": "United States of America",
+            "State": "Illinois",
+            "City": "Chicago",
+            "Zipcode": "60009"
+        },
+        {
+            "Country": "Austria",
+            "State": "Vienna",
+            "City": "Vienna",
+            "Zipcode": "22200"
+        },
+        {
+            "Country": "Austria",
+            "State": "Styria",
+            "City": "Graz",
+            "Zipcode": "8010"
+        },
+        {
+            "Country": "United Kingdom",
+            "State": "england",
+            "City": "London",
+            "Zipcode": "43140"
+        },
+        {
+            "Country": "United Kingdom",
+            "State": "England",
+            "City": "England",
+            "Zipcode": "72046"
+        },
+        {
+            "Country": "United Kingdom",
+            "State": "Wales",
+            "City": "Cardiff",
+            "Zipcode": "CF10"
+        },
+        {
+            "Country": "United Kingdom",
+            "State": "England",
+            "City": "Bristol",
+            "Zipcode": "6011"
+        },
+        {
+            "Country": "United Kingdom",
+            "State": "England",
+            "City": "Bristol",
+            "Zipcode": "6010"
+        },
+        {
+            "Country": "United Kingdom",
+            "State": "England",
+            "City": "Manchester",
+            "Zipcode": "M1"
+        },
+        {
+            "Country": "Canada",
+            "State": "British columbia",
+            "City": "vancouver",
+            "Zipcode": "V5Z"
+        },
+        {
+            "Country": "Canada",
+            "State": "Québec",
+            "City": "Montreal",
+            "Zipcode": "H1A0A5"
+        },
+        {
+            "Country": "Canada",
+            "State": "Ontario",
+            "City": "Toronto",
+            "Zipcode": "57268"
+        },
+        {
+            "Country": "Canada",
+            "State": "Ontario",
+            "City": "Toronto",
+            "Zipcode": "66777"
+        },
+        {
+            "Country": "France",
+            "State": "le-de-France",
+            "City": "Paris",
+            "Zipcode": "75440"
+        },
+        {
+            "Country": "France",
+            "State": "le-de-France",
+            "City": "Paris",
+            "Zipcode": "75460"
+        },
+        {
+            "Country": "India",
+            "State": "Telangana",
+            "City": "Kurnool",
+            "Zipcode": "518001"
+        },
+        {
+            "Country": "India",
+            "State": "Punjab",
+            "City": "Chandigarh",
+            "Zipcode": "160002"
+        },
+        {
+            "Country": "India",
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Zipcode": "400008"
+        },
+        {
+            "Country": "India",
+            "State": "Odisha",
+            "City": "Odisha",
+            "Zipcode": "759026"
+        },
+        {
+            "Country": "India",
+            "State": "Delhi",
+            "City": "Delhi",
+            "Zipcode": "110064"
+        },
+        {
+            "Country": "India",
+            "State": "Telangana",
+            "City": "Hyderabad",
+            "Zipcode": "500024"
+        }
+    ]
+}

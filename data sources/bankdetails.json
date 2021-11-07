@@ -1,0 +1,40 @@
+{
+    "Sheet1": [
+        {
+            "IFSCCode": "FR0PRS",
+            "BankName": "Bank of France",
+            "Location": "Paris",
+            "BranchManager": "John Walker"
+        },
+        {
+            "IFSCCode": "BNKENG0CRD",
+            "BankName": "Bank of England",
+            "Location": "Cardiff",
+            "BranchManager": "Jennifer Winget"
+        },
+        {
+            "IFSCCode": "SBIN2BLR",
+            "BankName": "State Bank of India",
+            "Location": "Bangalore",
+            "BranchManager": "Ramakrishna"
+        },
+        {
+            "IFSCCode": "BNKAUSVNA",
+            "BankName": "Bank of Austria",
+            "Location": "Vienna",
+            "BranchManager": "Holly Peter"
+        },
+        {
+            "IFSCCode": "CNB78TNT",
+            "BankName": "International Canadian Bank",
+            "Location": "Toronto",
+            "BranchManager": "Patrick James"
+        },
+        {
+            "IFSCCode": "BOA0NY",
+            "BankName": "Bank of America",
+            "Location": "New York",
+            "BranchManager": "Louis Matthews"
+        }
+    ]
+}

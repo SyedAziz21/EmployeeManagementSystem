@@ -1,0 +1,7 @@
+branch_id	branch_head	city	number_of_employees	country
+AMR001	Donna	Boston	156	America
+UK005	Rachel	Cardiff	20	United Kingdom
+FR565	James	Paris	5	France
+AUS001	Shane	Vienna	4	Austria
+CAN110	James	Vancouver	50	Canada
+IND112	Shane	Bangalore	150	India
