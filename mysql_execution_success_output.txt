@@ -1,0 +1,165 @@
+Enter password: ********
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 18
+Server version: 8.0.27 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2021, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sakila             |
+| sys                |
+| world              |
++--------------------+
+6 rows in set (0.01 sec)
+
+mysql> CREATE DATABASE emp_mgmt_system;
+Query OK, 1 row affected (0.02 sec)
+
+mysql> USE emp_mgmt_system;
+Database changed
+mysql> SHOW TABLES;
+Empty set (0.01 sec)
+
+mysql> CREATE TABLE emp_address (
+    ->         country varchar(30),
+    ->         state varchar(12),
+    ->         city varchar(12),
+    ->         zipcode varchar(8),
+    ->         primary key(zipcode)
+    ->         );
+Query OK, 0 rows affected (0.07 sec)
+
+mysql> CREATE TABLE employee (
+    ->         emp_id varchar(10),
+    ->         first_name varchar(20),
+    ->         last_name varchar(20),
+    ->         date_of_birth DATE,
+    ->         place_of_birth varchar(20),
+    ->         nationality varchar(10),
+    ->         gender varchar(6),
+    ->         marital_status varchar(10),
+    ->         branch_id varchar(6),
+    ->         email_id varchar(35),
+    ->         mobile_number varchar(10),
+    ->         address varchar(35),
+    ->         zipcode varchar(6),
+    ->         salary double,
+    ->         PRIMARY KEY (emp_id),
+    -> FOREIGN KEY (zipcode) REFERENCES emp_address(zipcode)
+    ->         );
+Query OK, 0 rows affected (0.11 sec)
+
+mysql> CREATE TABLE emp_education (
+    ->         emp_id varchar(10),
+    ->         degree varchar(30),
+    ->         year_of_completion year,
+    ->         qualification_level char(1),
+    ->         university varchar(25),
+    -> FOREIGN KEY (emp_id) REFERENCES Employee(emp_id)
+    ->         );
+Query OK, 0 rows affected (0.11 sec)
+
+mysql>
+mysql>
+mysql> CREATE TABLE emp_experience (
+    ->         emp_id varchar(10),
+    ->         joining_date date,
+    ->         designation varchar(15),
+    ->         exp int,
+    ->         company_address varchar(25),
+    ->         FOREIGN KEY (emp_id) REFERENCES Employee(emp_id)
+    ->         );
+Query OK, 0 rows affected (0.07 sec)
+
+mysql>
+mysql> CREATE TABLE bank_details (
+    ->         ifsc_code varchar(15),
+    ->         bank_name varchar(18),
+    ->         Location varchar(12),
+    ->         branch_manager varchar(8),
+    ->         primary key(ifsc_code)
+    ->         );
+Query OK, 0 rows affected (0.05 sec)
+
+mysql>
+mysql> CREATE TABLE company_branch (
+    ->         branch_id varchar(8),
+    ->         branch_head varchar(18),
+    ->         city varchar(12),
+    ->         number_of_employees int,
+    ->         country varchar(10),
+    ->         primary key(branch_id)
+    ->         );
+Query OK, 0 rows affected (0.05 sec)
+
+mysql>
+mysql> CREATE TABLE project_details (
+    ->         project_id varchar(8),
+    ->         project_name varchar(18),
+    ->         client varchar(18),
+    ->         years_of_contract int,
+    ->         number_of_employees int,
+    ->         project_manager varchar(10),
+    ->         primary key(project_id)
+    ->         );
+Query OK, 0 rows affected (0.05 sec)
+
+mysql> CREATE TABLE emp_identification (
+    ->         id_number varchar(10),
+    ->         drv_license varchar(10),
+    ->         dl_expiry date,
+    ->         passport_number varchar(10),
+    ->         pp_expiry date,
+    ->         pp_issue_place varchar(10),
+    ->         pp_issue_date date,
+    ->         PRIMARY KEY (id_number)
+    ->         );
+Query OK, 0 rows affected (0.06 sec)
+
+mysql> CREATE TABLE official_data (
+    ->         emp_id varchar(8),
+    ->         branch_id varchar(8),
+    ->         manager_id varchar(8),
+    ->         hr_id varchar(8),
+    ->         account_number varchar(18),
+    ->         ifsc_code varchar(15),
+    ->         designation varchar(10),
+    ->         project_id varchar(8),
+    ->         primary key(emp_id),
+    -> FOREIGN KEY (branch_id) REFERENCES company_branch(branch_id),
+    -> FOREIGN KEY (ifsc_code) REFERENCES bank_details(ifsc_code),
+    -> FOREIGN KEY (project_id) REFERENCES project_details(project_id)
+    ->
+    ->         );
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> show tables
+    -> ;
++---------------------------+
+| Tables_in_emp_mgmt_system |
++---------------------------+
+| bank_details              |
+| company_branch            |
+| emp_address               |
+| emp_education             |
+| emp_experience            |
+| emp_identification        |
+| employee                  |
+| official_data             |
+| project_details           |
++---------------------------+
+9 rows in set (0.01 sec)
+
+mysql>
